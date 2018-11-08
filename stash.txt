@@ -1,1 +1,4 @@
-
+def add(a,b):
+	done the adding
+def subract(a,b):
+	dong the subtacting
