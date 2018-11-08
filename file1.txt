@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-
-=======
-hey!
-I am starting all over
->>>>>>> Stashed changes
