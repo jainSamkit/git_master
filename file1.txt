@@ -1,2 +1,3 @@
 Hey!
-I am learning git
+I am learning 
+Changing file1 for the first time
